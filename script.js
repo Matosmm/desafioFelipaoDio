@@ -1,7 +1,7 @@
 function calcular(){
     var rank = 0
     var nome = 'Falcão Negro'
-    var vitórias = 50
+    var vitórias = 100
     var derrotas = 30
     rank += vitórias - derrotas
     
